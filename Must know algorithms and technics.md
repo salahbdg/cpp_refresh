@@ -1,6 +1,6 @@
 # Complete Competitive Programming Algorithms Guide
 
-## Part 1: Algorithm Explanations (High School Level)
+## Part 1: Algorithm Explanations 
 
 ### What is a Graph?
 Think of a graph like a map of cities (nodes/vertices) connected by roads (edges). You can represent friendships on Facebook, roads between cities, or dependencies between tasks.
